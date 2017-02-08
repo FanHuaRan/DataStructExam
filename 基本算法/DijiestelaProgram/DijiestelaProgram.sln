@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DijiestelaProgram", "DijiestelaProgram\DijiestelaProgram.vcxproj", "{FCADA725-001A-4EE8-B517-DC88637522AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCADA725-001A-4EE8-B517-DC88637522AD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FCADA725-001A-4EE8-B517-DC88637522AD}.Debug|Win32.Build.0 = Debug|Win32
+		{FCADA725-001A-4EE8-B517-DC88637522AD}.Release|Win32.ActiveCfg = Release|Win32
+		{FCADA725-001A-4EE8-B517-DC88637522AD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

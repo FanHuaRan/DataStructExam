@@ -1,0 +1,26 @@
+﻿生成启动时间为 2016/5/7 21:58:53。
+     1>项目“E:\程序\C语言\张梦瑶实验报告程序\KuoHaoProgram\KuoHaoProgram\KuoHaoProgram.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\KuoHaoProgram.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\开发软件\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt First.cpp
+         First.cpp
+     1>e:\程序\c语言\张梦瑶实验报告程序\kuohaoprogram\kuohaoprogram\first.cpp(40): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\程序\c语言\张梦瑶实验报告程序\kuohaoprogram\kuohaoprogram\first.cpp(57): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+     1>e:\程序\c语言\张梦瑶实验报告程序\kuohaoprogram\kuohaoprogram\first.cpp(79): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+     1>e:\程序\c语言\张梦瑶实验报告程序\kuohaoprogram\kuohaoprogram\first.cpp(99): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+     1>e:\程序\c语言\张梦瑶实验报告程序\kuohaoprogram\kuohaoprogram\first.cpp(136): warning C4717: “Fun”: 如递归所有控件路径，函数将导致运行时堆栈溢出
+       Link:
+         D:\开发软件\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\程序\C语言\张梦瑶实验报告程序\KuoHaoProgram\Debug\KuoHaoProgram.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\KuoHaoProgram.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\程序\C语言\张梦瑶实验报告程序\KuoHaoProgram\Debug\KuoHaoProgram.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\程序\C语言\张梦瑶实验报告程序\KuoHaoProgram\Debug\KuoHaoProgram.lib" /MACHINE:X86 Debug\First.obj
+         LINK : 没有找到 E:\程序\C语言\张梦瑶实验报告程序\KuoHaoProgram\Debug\KuoHaoProgram.exe 或上一个增量链接没有生成它；正在执行完全链接
+         KuoHaoProgram.vcxproj -> E:\程序\C语言\张梦瑶实验报告程序\KuoHaoProgram\Debug\KuoHaoProgram.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\程序\C语言\张梦瑶实验报告程序\KuoHaoProgram\Debug\KuoHaoProgram.exe;#1" /manifest Debug\KuoHaoProgram.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\KuoHaoProgram.unsuccessfulbuild”。
+         正在对“Debug\KuoHaoProgram.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\程序\C语言\张梦瑶实验报告程序\KuoHaoProgram\KuoHaoProgram\KuoHaoProgram.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.38

@@ -17,7 +17,6 @@ void Creat(string E,BTREE &T)
 	T=NULL;
 	char ch;
 	int i=0,top=-1,flag;//flagÎª±êÖ¾
-	124p
 	while(i<E.length())
 	{
 		ch=E[i];

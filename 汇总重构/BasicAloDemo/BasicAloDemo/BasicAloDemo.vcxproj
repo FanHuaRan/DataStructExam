@@ -62,7 +62,7 @@
   <ItemGroup>
     <ClCompile Include="find.cpp" />
     <ClCompile Include="linklist.cpp" />
-    <ClCompile Include="network.cpp" />
+    <ClCompile Include="dijkstra.cpp" />
     <ClCompile Include="queue.cpp" />
     <ClCompile Include="sort.cpp" />
     <ClCompile Include="stack.cpp" />
